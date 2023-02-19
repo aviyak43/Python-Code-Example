@@ -4,5 +4,5 @@ This was done by reading from csv file and writing the sorted data to different 
 The output files are included.
 
 Ex9 Python course:<br />
-This excercise is a short program to manage a car store. The user can add new cars, sell cars, print cars details and print the store details.
+This excercise is a short program to manage a cars store. The user can add new cars, sell cars, print cars details and print the store details.
 An input example is included.
